@@ -1,1 +1,2 @@
-
+item = "bike"
+print ("Iceland" )
